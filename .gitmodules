@@ -1,0 +1,4 @@
+[submodule "components/mrubyc/mrubyc"]
+	path = components/mrubyc/mrubyc
+	url = https://github.com/a-shiomaneki/mrubyc.git
+	branch = feature-update-to-esp-idf-v5
