@@ -27,6 +27,13 @@ When you try the `SAMPLE_TASK_WITW_NO_MRBC_SCHEDULER` code, the `sleep 1` code i
 
     [Step 4. Set up the Environment Variables](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/linux-macos-setup.html#step-4-set-up-the-environment-variables)
 
+1. Install the Ruby package, which requires the bytecode compiler `mrbc`. You can find this package in your Linux and Mac package system. For Windows users, you can download a prebuilt binary from ITOC(Shimane IT Open-Innovation Center). Of course you can build from the source code.
+
+    [itoc - ダウンロード mruby/c](https://www.s-itoc.jp/support/technical-support/mrubyc/mrubyc-download/)
+
+    https://github.com/mruby/mruby
+
+
 1. Clone this repository.
 
     ```
