@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(mrubyc-esp32 VERSION 0.1.0 LANGUAGES C CXX)
+project(mrubyc-esp-idf VERSION 0.1.0 LANGUAGES C CXX)
 
 # find mrbc command
 find_program(MRBC_EXECUTABLE
